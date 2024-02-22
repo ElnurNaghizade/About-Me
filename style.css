@@ -1,0 +1,29 @@
+.Headphoto{
+    height: 650px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    
+}
+.container{
+    text-align: center;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.CVFoto{
+    height: 280px;
+    border-radius: 50%;
+}
+.Lead{
+    color: rgb(12, 16, 125);
+    font-family: sans-serif;
+}
+.H1{
+    color: dimgrey;
+    font-family: sans-serif;
+}
+.iconss{
+    height: 20px;
+    width: 20px;
+}
